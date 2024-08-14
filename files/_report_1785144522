@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Adam",
+    "age": "42",
+    "email": "adam@mail.com",
+    "salary": 5000
+  },
+  {
+    "id": "2",
+    "name": "Beth",
+    "age": "52",
+    "email": "beth@mail.com",
+    "salary": 5923
+  },
+  {
+    "id": "3",
+    "name": "Cecil",
+    "age": "23",
+    "email": "cecil@mail.com",
+    "salary": 10413
+  },
+  {
+    "id": "4",
+    "name": "Dorthy",
+    "age": "29",
+    "email": "dorthy@mail.com",
+    "salary": 7925
+  },
+  {
+    "id": "5",
+    "name": "Edmund",
+    "age": "35",
+    "email": "edmund@mail.pl",
+    "salary": 7010
+  },
+  {
+    "id": "6",
+    "name": "Fredrick",
+    "age": "46",
+    "email": "fredrick@mail.no",
+    "salary": 7121
+  },
+  {
+    "id": "7",
+    "name": "Greg",
+    "age": "62",
+    "email": "greg@mail.com",
+    "salary": 4312
+  },
+  {
+    "id": "8",
+    "name": "Hugh",
+    "age": "64",
+    "email": "hugh@mail.de",
+    "salary": 5161
+  },
+  {
+    "id": "9",
+    "name": "Ian",
+    "age": "31",
+    "email": "ian@mail.com",
+    "salary": 8925
+  },
+  {
+    "id": "10",
+    "name": "John",
+    "age": "17",
+    "email": "john@mail.en",
+    "salary": 3190
+  }
+]
